@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676158442179",
+    "project_id": "roamtheworld-325c4",
+    "storage_bucket": "roamtheworld-325c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676158442179:android:5a8b794a54a47517b2b076",
+        "android_client_info": {
+          "package_name": "com.example.roam_the_world_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5yoeaMOFrLjWU8aiGkVkNuMwYVrzqIvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
